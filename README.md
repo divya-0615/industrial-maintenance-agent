@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Industrial Maintenance Memory Agent
 
 An AI-powered industrial maintenance assistant that uses persistent memory to help technicians troubleshoot recurring machine failures.
